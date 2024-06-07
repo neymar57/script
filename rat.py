@@ -12,7 +12,7 @@ import shutil
 #folder = "shell:startup"
 #os.system(f"xcopy '{script_directory}' '{folder}'")
 
-SERVER_IP = "90.100.231.167"
+SERVER_IP = "ip"
 PORT = 6464
 
 script_directory = os.path.dirname(__file__)
